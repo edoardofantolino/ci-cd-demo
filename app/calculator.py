@@ -1,2 +1,2 @@
 def add(a, b):
-    return a + b + 1 # BUG
+    return a + b # BUG solved
